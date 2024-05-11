@@ -9,4 +9,11 @@ Se da comienzo al trabajo grupal con la creacion del repositorio donde se tendra
 ## Apuntes de Diego Alvarez
 
 ## Apuntes de Orlando Altamirano
-hola mundo xd
+Fecha 11/05/202
+Creacion de ramas:   
+git branch feature/nueva-caracteristica   
+git branch bugfix/arreglo-error  
+git branch hotfix/urgente   
+git branch release/version-1.0  
+git branch develop  
+git branch experimento/nueva-funcionalidad  
